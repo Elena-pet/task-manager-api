@@ -1,2 +1,36 @@
-# task-manager-api
-Spring Boot REST API for task management with PostgreSQL and Telegram notifications
+# Task Manager API
+
+🚀 **Spring Boot REST API для управления задачами** с базой данных PostgreSQL и Telegram уведомлениями.
+
+## 📋 Возможности
+
+- ✅ Регистрация и аутентификация пользователей (JWT)
+- ✅ CRUD операции для задач
+- ✅ Фильтрация и пагинация задач
+- ✅ Telegram уведомления через N8n
+- ✅ Swagger документация
+- ✅ Unit и интеграционные тесты
+- ✅ Деплой на Render.com
+
+## 🛠 Технологии
+
+- **Java 17**
+- **Spring Boot 3.2**
+- **PostgreSQL**
+- **Spring Security + JWT**
+- **Maven**
+- **Telegram Bot API**
+- **N8n (автоматизация workflows)**
+- **Swagger/OpenAPI**
+
+## 🚀 Начало работы
+
+### Требования
+- Java 17
+- PostgreSQL 14+
+- Maven 3.9+
+
+### Установка
+1. Клонируйте репозиторий:
+```bash
+git clone https://github.com/Elena-pet/task-manager-api.git
